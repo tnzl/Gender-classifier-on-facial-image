@@ -5,6 +5,7 @@ The project aimed to develop a py app which uses camera to localize face and pre
 The project will have two main tasks primarily:
 1. Develop a GUI.
 2. Working on algorithm to implement face localisation.
+3. Improving present classifier model.
 
 ## Milestones aachieved 
 Skeleton of the app has been developed. Model has reached 90% accuracy milestone.
