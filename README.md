@@ -9,13 +9,14 @@ The project will have three main tasks primarily:
 3. Improving present classifier model.
 
 ## Milestones achieved 
-Skeleton of the app has been developed. Model has reached 90% accuracy milestone.
+1. Model has reached >90% accuracy milestone.
+2. Skeleton of the app has been developed. 
 
 ## Architecture
 Transfer learning on resnet-32 pre-trained on Imagenet dataset.
 
 ## Data
-Scraping images from "Google Images"
+700 Imges scrapped from "Google Images"
 
 ## Screenshots
 ![](male-pred.png)
